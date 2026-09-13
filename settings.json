@@ -2,13 +2,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Perzaan",
+    "username": "Bot 2",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Rocky_ATTITUDE.aternos.me",
-    "port": 47718,
+    "port": 48954,
     "version": "1.21.1"
   },
   "position": {
@@ -29,9 +29,10 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 2500,
+      "repeat-delay": 50000,
       "messages": [
         "I'm a regular player",
+        "Officer Gandu!",
         "I like to play Minecraft!"
       ]
     },
